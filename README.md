@@ -1,6 +1,6 @@
 # 🚀 DecodeLabs Industrial Training Projects
 
-This repository contains all projects completed as part of the **DecodeLabs Artificial Intelligence Industrial Training Program (Batch 2026)**.
+This repository contains all projects completed as part of the **DecodeLabs Artificial Intelligence Industrial Training Program**.
 
 The projects cover fundamental concepts of Artificial Intelligence, Machine Learning, and Recommendation Systems through practical implementations using Python and industry-standard libraries.
 
