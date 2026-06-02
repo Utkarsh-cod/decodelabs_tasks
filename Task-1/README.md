@@ -1,6 +1,12 @@
-# 🤖 Decode AI
+# 🚀 DecodeLabs Industrial Training Projects
 
-Decode AI is a Rule-Based AI Chatbot built using Python as part of the DecodeLabs Industrial Training Program.
+This repository contains all projects completed as part of the DecodeLabs Industrial Training Program.
+
+---
+
+# 🤖 Task-1: Decode AI
+
+Decode AI is a Rule-Based AI Chatbot built using Python.
 
 The chatbot simulates basic human interaction using rule-based logic, dictionaries, control flow, and keyword matching without relying on any external AI APIs or machine learning models.
 
@@ -51,17 +57,20 @@ The chatbot simulates basic human interaction using rule-based logic, dictionari
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
-Task-1-Decode-AI/
-
-├── decode_ai.py
-
-├── README.md
-
-├── requirements.txt
-
-└── screenshots/
+```text
+decodelabs_tasks/
+│
+└── Task-1/
+    ├── decode_ai.py
+    ├── requirements.txt
+    ├── README.md
+    └── screenshots/
+        ├── startup.png
+        ├── chat.png
+        └── session_summary.png
+```
 
 ---
 
@@ -70,13 +79,13 @@ Task-1-Decode-AI/
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Utkarsh-cod/decodelabs_tasks.git
 ```
 
-### Navigate to Project Folder
+### Navigate to Task-1
 
 ```bash
-cd Task-1-Decode-AI
+cd Task-1
 ```
 
 ### Run Program
@@ -152,13 +161,16 @@ exit
 ## 📸 Screenshots
 
 ### Startup Screen
-![Startup Screen](screenshots/startup.png)
+
+![Startup Screen](Task-1/screenshots/startup.png)
 
 ### Chat Interaction
-![Chat Interaction](screenshots/chat.png)
+
+![Chat Interaction](Task-1/screenshots/chat.png)
 
 ### Session Summary
-![Session Summary](screenshots/session_summary.png)
+
+![Session Summary](Task-1/screenshots/session_summary.png)
 
 ---
 
@@ -178,13 +190,13 @@ Through this project, I learned:
 
 ## 📌 Project Objective
 
-The objective of this project is to understand the foundations of Artificial Intelligence through deterministic rule-based systems before moving toward advanced machine learning and generative AI concepts.
+The objective of this project is to understand the foundations of Artificial Intelligence through deterministic rule-based systems before moving toward advanced Machine Learning and Generative AI concepts.
 
 ---
 
 ## 👨‍💻 Author
 
-Utkarsh Agarwal
+**Utkarsh Agarwal**
 
 B.Tech CSE (AI & ML)
 
